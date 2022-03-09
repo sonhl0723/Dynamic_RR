@@ -22,9 +22,30 @@ $$  -->
 ### Case 1
 <p align="center"><img src="./img/case1/case1.png" width="80%" height="80%">
 
+<img src="./img/case1/case1_rr_result.png" width="45%" height="45%">
+<img src="./img/case1/case1_pr_result.png" width="45%" height="45%" align="right">
+
 <img src="./img/case1/case1_rr.png" width="45%" height="45%">
 <img src="./img/case1/case1_pr.png" width="45%" height="45%" align="right">
 
+***
+
 ### Case 2
+<p align="center"><img src="./img/case2/case2.png" width="80%" height="80%">
+
+<img src="./img/case2/case2_rr_result.png" width="45%" height="45%">
+<img src="./img/case2/case2_pr_result.png" width="45%" height="45%" align="right">
+
+<img src="./img/case2/case2_rr.png" width="45%" height="45%">
+<img src="./img/case2/case2_pr.png" width="45%" height="45%" align="right">
+
+***
 
 ### Case 3
+<p align="center"><img src="./img/case3/case3.png" width="80%" height="80%">
+
+<img src="./img/case3/case3_rr_result.png" width="45%" height="45%">
+<img src="./img/case3/case3_pr_result.png" width="45%" height="45%" align="right">
+
+<img src="./img/case3/case3_rr.png" width="45%" height="45%">
+<img src="./img/case3/case3_pr.png" width="45%" height="45%" align="right">

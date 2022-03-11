@@ -1,10 +1,17 @@
 # Dynamic_RR
-
+  - [Abstract](#abstract)
   - [Hypothesis](#hypothesis)
   - [CPU Utiliation](#cpu-utilization)
   - [Algorithm](#algorithm)
   - [Experiment](#experiment)
+    - [Case 1](#case-1)
+    - [Case 2](#case-2)
+    - [Case 3](#case-3)
   - [Reference](#reference)
+
+## Abstract
+> 범용 스케줄러-선점형 OS Scheduler 중 하나인 Round Robin(RR)을 변형한 알고리즘을 구현하였다. 기존의 Round Robin은 초기 Time Quantum을 설정하여 프로세스들을 스케줄하지만 Proposed Round Robin(Dynamic RR)은 Time Quantum을 유동적으로 변경한다는 차이점이 있다.<br>
+> Dynamic Round Robin은 _Waiting Time_, _Turnaround Time_ 측면에서 향상된 성능을 보였고 전체적인 _Response Time_ 측면에서는 기존 RR보다 낮은 성능을 보였다.
 
 ## Hypothesis
 - 프로세스들을 foreground와 background로 나누지 않고 전부 상호작용적(interactive)으로 작동하는 foreground processes라고 가정

@@ -86,4 +86,4 @@
 ---
 ## Reference
 - Abbas Noon , Ali Kalakech, Seifedine Kadry "A New Round Robin Based Scheduling Algorithm for Operating Systems: Dynamic Quantum Using the Mean Average", IJCSI International Journal of Computer Science Issues, Vol. 8, Issue 3, No. 1, May 2011-[arxiv.org](https://arxiv.org/pdf/1111.5348.pdf)
-- [CPU Scheduling-Sungyoung Lee-College of Engineering KyungHee University](http://uclab.khu.ac.kr/lectures/2006_1_os/os-ch06.pdf)
+- Sungyoung Lee, "CPU Scheduling", College of Engineering KyungHee University [PDF File](http://uclab.khu.ac.kr/lectures/2006_1_os/os-ch06.pdf)

@@ -1,4 +1,4 @@
-# Dynamic_RR
+# Dynamic_RR <img alt="Python" src ="https://img.shields.io/badge/c-informational"/>
   - [Abstract](#abstract)
   - [Hypothesis](#hypothesis)
   - [CPU Utiliation](#cpu-utilization)
@@ -40,8 +40,8 @@
 |P9|3|6|
 |P10|26|11|
 
-<p align="center"><img src="./img/case1/case1.png" width="60%" height="60%">
-
+<img src="./img/case1/case1.png" width="60%" height="60%">
+<p>
 <img src="./img/case1/case1_rr_result.png" width="30%" height="45%">
 <img src="./img/case1/case1_pr_result.png" width="30%" height="45%" align="right">
 
@@ -63,9 +63,8 @@
 |P8|2|14|
 |P9|43|5|
 |P10|2|6|
-
-<p align="center"><img src="./img/case2/case2.png" width="60%" height="80%">
-
+<img src="./img/case2/case2.png" width="60%" height="80%">
+<p>
 <img src="./img/case2/case2_rr_result.png" width="30%" height="45%">
 <img src="./img/case2/case2_pr_result.png" width="30%" height="45%" align="right">
 
@@ -76,7 +75,7 @@
 
 ### Case 3
 <p align="center"><img src="./img/case3/case3.png" width="60%" height="80%">
-
+<p>
 <img src="./img/case3/case3_rr_result.png" width="30%" height="45%">
 <img src="./img/case3/case3_pr_result.png" width="30%" height="45%" align="right">
 

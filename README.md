@@ -40,13 +40,13 @@
 |P9|3|6|
 |P10|26|11|
 
-<img src="./img/case1/case1.png" width="60%" height="60%">
+<img src="./img/case1/case1.png" width="60%" height="80%">
 <p>
 <img src="./img/case1/case1_rr_result.png" width="30%" height="45%">
 <img src="./img/case1/case1_pr_result.png" width="30%" height="45%" align="right">
 
-<img src="./img/case1/case1_rr.png" width="30%" height="45%">
-<img src="./img/case1/case1_pr.png" width="30%" height="45%" align="right">
+<img src="./img/case1/case1_rr.png" width="45%" height="45%">
+<img src="./img/case1/case1_pr.png" width="45%" height="45%" align="right">
 
 ***
 
